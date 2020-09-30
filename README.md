@@ -58,7 +58,7 @@ docker run -it --rm \
 ### Windows
 
 #### CMD
-
+Open Up Command Prompt and Run The Following commands to install Appwrite
 ```cmd
 docker run -it --rm ^
     --volume //var/run/docker.sock:/var/run/docker.sock ^
@@ -68,7 +68,7 @@ docker run -it --rm ^
 ```
 
 #### PowerShell
-
+Open Up Powershell and Run The Following commands to install Appwrite
 ```powershell
 docker run -it --rm ,
     --volume /var/run/docker.sock:/var/run/docker.sock ,
@@ -127,7 +127,7 @@ Looking for more SDKs? - Help us by contributing a pull request to our [SDK Gene
 
 All code contributions - including those of people having commit access - must go through a pull request and approved by a core developer before being merged. This is to ensure proper review of all the code.
 
-We truly ❤️ pull requests! If you wish to help, you can learn more about how you can contribute to this project in the [contribution guide](CONTRIBUTING.md).
+We truly ❤️ and appreciate pull requests! If you wish to help, you can learn more about how you can contribute to this project in the [contribution guide](CONTRIBUTING.md).
 
 ## Security
 
